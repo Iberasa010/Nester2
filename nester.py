@@ -1,6 +1,6 @@
 from dos import print_lol
 
-""" Nester main. Test cases """
+""" Nester main - Test cases """
 
 my_europe_countries = ["Spain", "France", ["Italy", "Germany", ["England"]]]
 my_asia_countries = ["Japan", ["China", ["Bhutan"], "India"], "Saudi-Arabia"]
